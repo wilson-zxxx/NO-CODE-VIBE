@@ -1,0 +1,7 @@
+{
+  "name": "No Code Vibe",
+  "description": "Real AI employees, business tools and automation systems researched, built and tested in public.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
